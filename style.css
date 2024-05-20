@@ -38,6 +38,10 @@ footer {
   float: right;
 }
 
+.creative {
+  color: rgb(55, 246, 204);
+}
+
 body {
   background-color: aquamarine;
 }
